@@ -1,0 +1,9 @@
+C:\Users\Sapphire\source\repos\takedown\takedown\bin\Debug\takedown.exe.config
+C:\Users\Sapphire\source\repos\takedown\takedown\bin\Debug\takedown.exe
+C:\Users\Sapphire\source\repos\takedown\takedown\bin\Debug\takedown.pdb
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.csproj.AssemblyReference.cache
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.Properties.Resources.resources
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.csproj.GenerateResource.cache
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.csproj.CoreCompileInputs.cache
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.exe
+C:\Users\Sapphire\source\repos\takedown\takedown\obj\Debug\takedown.pdb
